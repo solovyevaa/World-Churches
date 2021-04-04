@@ -1,2 +1,2 @@
-# World-Churches
+# World Churches
 Architecture, history, pleasure
